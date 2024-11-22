@@ -1,0 +1,7 @@
+/server/node_modules
+*.db
+*.sqlite
+
+/client/bin
+/client/obj
+
