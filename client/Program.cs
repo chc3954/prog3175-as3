@@ -13,7 +13,7 @@ namespace AssignmentOneClient
     {
         static async Task Main(string[] args)
         {
-            var url = "http://localhost:8080/api";
+            var url = "https://prog3175-as3.vercel.app/api";
 
             using HttpClient client = new HttpClient();
 

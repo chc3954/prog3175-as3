@@ -2,4 +2,5 @@
 /client/obj
 
 /server/node_modules
-.env
+/server/.vercel
+/server/.env
